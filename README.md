@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://somiibo.com/platforms/{url}">
+  <a href="https://somiibo.com/platforms/addmefast-bot">
     <img src="https://cdn.itwcreativeworks.com/assets/somiibo/images/logo/somiibo-brandmark-blue-x.svg" width="100px">
   </a>
 </p>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/contributors/itw-creative-works/node-powertools.svg">
   <br>
   <br>
-  <strong>{name}</strong> {description}
+  <strong>AddMeFast Bot</strong> is a free software that automatically views & interacts with content to earn unlimited points
 </p>
 
 # 💻 Installation
@@ -22,7 +22,8 @@
 [![All versions](https://img.shields.io/badge/-All_Versions-lightgrey.svg?style=for-the-badge)](https://somiibo.com/download?download=null)
 
 # 🎉 Features
-- {features}
+- Get points on AddMeFast
+- Automatically views & interacts with content to earn unlimited points
 
 # 🙋‍♂️ Want to contribute?
 Want to contribute? Great! All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports. 
