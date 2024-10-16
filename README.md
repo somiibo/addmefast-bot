@@ -15,7 +15,8 @@
   <strong>AddMeFast Bot</strong> is a free software that automatically views & interacts with content to earn unlimited points
 </p>
 
-# 💻 Installation
+# 🦄 AddMeFast Bot
+## 💻 Installation
 ### Direct link
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://somiibo.com/download?download=windows)
 [![MacOS](https://img.shields.io/badge/-MacOS-lightblue.svg?style=for-the-badge&logo=apple)](https://somiibo.com/download?download=macos)
@@ -30,11 +31,11 @@ npm install
 npm start
 ```
 
-# 🎉 Features
+## 🎉 Features
 - Get points on AddMeFast
 - Automatically views & interacts with content to earn unlimited points
 
-# 🙋‍♂️ Want to contribute?
+## 🙋‍♂️ Want to contribute?
 Want to contribute? Great! All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports. 
 
 [Join our Discord server](https://somiibo.com/discord) to participate
